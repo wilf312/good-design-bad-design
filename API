@@ -1,0 +1,9 @@
+# good
+
+# bad
+
+# url required dynamic key
+/store/storeId123/item
+/store/storeId123/info
+/store/storeId123/
+/store/
